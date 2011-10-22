@@ -1,2 +1,2 @@
 class Golf
-end
+end	
